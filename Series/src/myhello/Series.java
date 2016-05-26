@@ -17,5 +17,6 @@ public class Series {
         bufferReplace (textBuffer); 
  
         System.out.println (textString + textBuffer); 
+        System.out.println ("change 1");
     } 
 } 
